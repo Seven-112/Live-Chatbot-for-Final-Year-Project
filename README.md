@@ -38,16 +38,4 @@ NLP is a way for computers to analyze, understand, and derive meaning from human
 
 **IMP**: Project Code made by Pyhton Programming with detailed explanation.
 
------------------------------------------------------------------------------------------------------------------------------
-<h3 align="center">Hi there😄</h3>
 
-**You Can use this Beautiful Project for your college Project and get good marks too.**
-
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : superdevelopingstar@gmail.com 
-
-
-### Youtube Implementation of project : https://youtu.be/tLormT06XS0
